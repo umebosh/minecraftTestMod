@@ -1,10 +1,29 @@
-[03:13:43] [main/INFO]: Setting user: Player560
-[03:13:45] [Client thread/INFO]: LWJGL Version: 2.9.1
-[03:13:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[03:13:51] [Sound Library Loader/INFO]: Sound engine started
-[03:13:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[03:13:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[03:13:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[03:13:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[03:13:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[03:13:54] [Sound Library Loader/INFO]: Sound engine started
+[04:00:49] [main/INFO]: Setting user: Player768
+[04:00:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[04:00:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
+[04:00:59] [Sound Library Loader/INFO]: Sound engine started
+[04:01:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[04:01:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[04:01:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
+[04:01:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[04:01:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[04:01:02] [Sound Library Loader/INFO]: Sound engine started
+[04:01:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[04:01:23] [Server thread/INFO]: Generating keypair
+[04:01:23] [Server thread/INFO]: Preparing start region for level 0
+[04:01:24] [Server thread/INFO]: Preparing spawn area: 64%
+[04:01:25] [Server thread/INFO]: Changing view distance to 12, from 10
+[04:01:25] [Server thread/INFO]: Player768[local:E:8e84bbdc] logged in with entity id 219 at (183.2777168135468, 64.0, 266.64200051614733)
+[04:01:25] [Server thread/INFO]: Player768 joined the game
+[04:01:31] [Server thread/INFO]: Player768 has just earned the achievement [Taking Inventory]
+[04:01:31] [Client thread/INFO]: [CHAT] Player768 has just earned the achievement [Taking Inventory]
+[04:01:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 147 ms
+[04:02:23] [Client thread/INFO]: Stopping!
+[04:02:23] [Server thread/INFO]: Stopping server
+[04:02:23] [Server thread/INFO]: Saving players
+[04:02:23] [Server thread/INFO]: Saving worlds
+[04:02:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[04:02:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[04:02:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[04:02:23] [Client Shutdown Thread/INFO]: Stopping server
+[04:02:23] [Client Shutdown Thread/INFO]: Saving players
